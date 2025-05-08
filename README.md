@@ -1,6 +1,17 @@
 ### Bem vindo ao perfil de Antonio Santerra, atualmente cursando tecnico em informática pelo IFSul! 👋
 
-## 🧑🏽‍💻 Um pouco sobre mim:
+<!--
+<style>
+  div{
+    display: flex;
+    flex-direction: row;
+    jutify-content: center;
+    align-items: center;
+  }
+</style>
+-->
+
+## Um pouco sobre mim:
 <div>
   <p>
     Me chamo Antonio Santerra, desenvolvedor full stack apaixonado por tecnologia, cursando o ultimo período 
@@ -27,17 +38,29 @@
 
 ## 👨🏽‍💻💻 Minhas Tecnologias  
   
-<div style="display: inline_block">
-  <!--
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="DotNet Core" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-   -->
-  <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />  
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style=" display: flex">
+ 
+  <p>Front-end</p>
+  <img align="center" alt="HTML" height="50" width="60"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60"          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="50" width="60"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <br><br>
+  <p>Back-end</p>
+  <img align="center" alt="Node.js" height="50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="PHP" height="70" width="60"         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
+  <img align="center" alt="Python" height="50" width="60"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <br><br>
+  <p>Database</p>
+  <img align="center" alt="MySQL" height="50" width="60"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="jQuery" height="50" width="60"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+  <img align="center" alt="Firebase" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /> 
+  <br><br>
+  <p>Frameworks</p>
+  
+  <img align="center" alt="Laravel" height="50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="React.js" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Tailwind" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="Bootstrap" height="50" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div><br>
 
 ## 🏆 Prêmios, Cursos e Certificações
@@ -55,7 +78,7 @@ Descrição   | Instituição   | Ano | Tipo
   target="_blank"></a>
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
   target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ivisconfessor" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- 
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- 
   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -63,6 +86,6 @@ Descrição   | Instituição   | Ano | Tipo
 
 <div align="center">
   <a href="https://github.com/Santerra-code">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Santerra-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santerra-code&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Santerra-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santerra-code&layout=compact&langs_count=7&theme=dark"/>
 </div>
