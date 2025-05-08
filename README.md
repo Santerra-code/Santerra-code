@@ -10,6 +10,7 @@
     também possuo experiência em Automação de Processos, RPA com arduino e esp32.
   </p>
   <br>
+  <!--
   <p>
     Atualmente, estou aprofundando meus conhecimentos nas linguagens de programação Python, Java e MongoDB, além de explorar frameworks como React e Next.js.
     Meu objetivo é desenvolver aplicações que não apenas atendam às necessidades dos usuários, mas que também proporcionem uma experiência dinâmica e 
@@ -17,6 +18,7 @@
     onde posso aplicar o que aprendo e contribuir com a comunidade de desenvolvedores.
   </p>
   <br>
+  -->
   <p>
     🚀 No meu GitHub, você encontrará uma variedade de projetos que refletem meu crescimento e aprendizado. Estou aberto a colaborações e sempre disposto a trocar ideias 
     sobre tecnologia e desenvolvimento.
