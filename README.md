@@ -56,11 +56,16 @@
   <img align="center" alt="Firebase" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /> 
   <br><br>
   <p>Frameworks</p>
-  
   <img align="center" alt="Laravel" height="50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   <img align="center" alt="React.js" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Tailwind" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Bootstrap" height="50" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <br><br>
+  <p>Ferramentas</p>
+  <img align="center" alt="VS Code" height="50" width="60"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Docker" height="50" width="60"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center" alt="Debian" height="50" width="60"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+  <img align="center" alt="Git" height="50" width="60"         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div><br>
 
 ## 🏆 Prêmios, Cursos e Certificações
