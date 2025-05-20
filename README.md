@@ -52,7 +52,7 @@
   <br><br>
   <p>Database</p>
   <img align="center" alt="MySQL" height="50" width="60"       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="jQuery" height="50" width="60"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+  <img align="center" alt="MongoDB" height="50" width="60"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Firebase" height="50" width="60"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" /> 
   <br><br>
   <p>Frameworks</p>
